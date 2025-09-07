@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>img/retitle.png</file>
+        <file>img/playerl1.png</file>
+        <file>img/playerl2.png</file>
+        <file>img/playerl3.png</file>
+        <file>img/playerr1.png</file>
+        <file>img/playerr2.png</file>
+        <file>img/playerr3.png</file>
+        <file>img/road.png</file>
+    </qresource>
+</RCC>
